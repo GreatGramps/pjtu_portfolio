@@ -4,7 +4,6 @@
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
-- [Books I have read](#books-i-have-read)
 
 ## About me
 
